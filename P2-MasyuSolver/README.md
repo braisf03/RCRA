@@ -1,7 +1,3 @@
-# Equipo:
-    Fernando Álvarez Rodríguez de Legísima | fernando.alvarezr@udc.es
-    Brais Sánchez Ferreiro | brais.sferreiro@udc.es
-
 # Instrucciones:
 
     Para pasar de los ejemplos que tenemos en txt en masyu-examples a los lp ponemos esto:
